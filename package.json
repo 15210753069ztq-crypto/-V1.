@@ -1,0 +1,12 @@
+{
+  "name": "uav-adv-eval-system",
+  "version": "1.0.0",
+  "private": true,
+  "description": "纯前端演示系统，直接打开 index.html 即可运行；本文件仅用于自动截图",
+  "scripts": {
+    "screenshot": "node scripts/screenshot.js"
+  },
+  "devDependencies": {
+    "playwright": "1.47.2"
+  }
+}

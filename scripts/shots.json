@@ -1,0 +1,12 @@
+[
+  { "file": "01_评估总览大屏.png", "route": "/dashboard" },
+  { "file": "02_数据集管理.png", "route": "/dataset" },
+  { "file": "03_检测模型管理.png", "route": "/detectors" },
+  { "file": "04_攻击算法配置.png", "route": "/methods" },
+  { "file": "05_攻击算法新增.png", "route": "/methods", "click": "新增" },
+  { "file": "06_对抗样本生成.png", "route": "/generate", "wait": 3500 },
+  { "file": "07_白盒攻击评估.png", "route": "/whitebox", "wait": 3000 },
+  { "file": "08_迁移攻击评估.png", "route": "/transfer" },
+  { "file": "09_消融实验分析.png", "route": "/ablation" },
+  { "file": "10_复杂天气鲁棒性.png", "route": "/weather", "wait": 3500 }
+]
